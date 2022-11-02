@@ -1,8 +1,10 @@
 # ⚠️ This page is under construction
 
-02-11-22 ~ </br>
+<p> 02-11-22 ~ </p>
+<div>
 using
 <ul>
-<li> next.js </br> </li>
-<li> notion </br> </li>
+<li> next.js </li>
+<li> notion  </li>
 </<ul>
+</div>
